@@ -1,8 +1,10 @@
 # CountJack 🃏
+A browser-based blackjack card counting trainer built in a single HTML file. No frameworks. No install. No casino floor required.
 
-A browser-based blackjack card counting trainer built in a single HTML file.
+> [!WARNING]
+> This project was built with AI assistance (vibe coded). While it works, the code hasn't been professionally audited — use at your own risk. If you get a chance, feel free to review the code before deploying. PRs and fixes are always welcome!
 
-No frameworks. No install. No casino floor required.
+---
 
 ## What it does
 
