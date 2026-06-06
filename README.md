@@ -1,4 +1,4 @@
-# CountJack 🃏
+# Deck Detective 🔍
 
 A browser-based blackjack card counting trainer built in a single HTML file. No frameworks. No install. No casino floor required.
 
@@ -17,7 +17,7 @@ A browser-based blackjack card counting trainer built in a single HTML file. No 
 
 ## What it does
 
-CountJack helps you practice the Hi-Lo counting system alongside basic strategy decisions in real time. Think of it as a sparring partner for your brain — not a cheat code for Vegas. 🧠
+Deck Detective helps you practice the Hi-Lo counting system alongside basic strategy decisions in real time. Think of it as a sparring partner for your brain — not a cheat code for Vegas. 🧠
 
 - 🔢 **Running & True Count** — tracks RC and calculates TC (RC ÷ decks remaining) as you log cards
 - 🤔 **Basic Strategy Advisor** — tells you whether to Hit, Stand, Double, Split, or Surrender based on your hand, the dealer's upcard, and the current true count
