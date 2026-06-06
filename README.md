@@ -2,6 +2,10 @@
 
 A browser-based blackjack card counting trainer built in a single HTML file. No frameworks. No install. No casino floor required.
 
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Maintained](https://img.shields.io/badge/maintained-no-red)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
+![No Dependencies](https://img.shields.io/badge/dependencies-zero-lightgrey)
 ![Vibe Coded](https://img.shields.io/badge/vibe-coded-purple)
 ![Casino Tested](https://img.shields.io/badge/casino-not%20tested-red)
 ![Pit Boss](https://img.shields.io/badge/pit%20boss-unaware-blue)
