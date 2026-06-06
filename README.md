@@ -1,4 +1,5 @@
 # CountJack 🃏
+
 A browser-based blackjack card counting trainer built in a single HTML file. No frameworks. No install. No casino floor required.
 
 > [!WARNING]
